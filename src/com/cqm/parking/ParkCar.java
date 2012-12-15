@@ -1,3 +1,5 @@
+package com.cqm.parking;
+
 import java.util.ArrayList;
 
 /**

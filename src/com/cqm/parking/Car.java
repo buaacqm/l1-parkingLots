@@ -1,3 +1,5 @@
+package com.cqm.parking;
+
 /**
  * Created with IntelliJ IDEA.
  * User: software
